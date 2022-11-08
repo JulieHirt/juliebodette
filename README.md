@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Programmer, Chemist, Teacher</h3>
 
 
-- 🔭 I’m currently working on [Around The US](https://github.com/JulieBodette/around-react)
+- 🔭 I’m currently working on [Around The US](https://github.com/JulieBodette/react-around-auth)
 
 - 👨‍💻 All of my games are available at [https://julie-bodette.itch.io/](https://julie-bodette.itch.io/)
 
