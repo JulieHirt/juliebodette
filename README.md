@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <h3 align="center">Programmer, Chemist, Teacher</h3>
 
 
-- 🔭 I’m currently working on [Around The US](https://github.com/JulieBodette/react-around-auth)
+- 🔭 I’m currently working on [Around The US](https://github.com/JulieBodette/react-around-api-full)
 
 - 👨‍💻 All of my games are available at [https://julie-bodette.itch.io/](https://julie-bodette.itch.io/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **C#/Unity**
 
 - ⚡ Fun fact **I taught myself Python in high school because I wanted to code my own game.**
 
